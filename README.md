@@ -3,7 +3,7 @@ ICLR2020 Regularized AutoEncoder Pytorch version
 
 This is the pytorch implementation of the ICLR2020 Paper titled 'From variational to deterministic Autoencoders'
 
-The author's repo is [Regularized_autoencoders(RAE)](https://github.com/ParthaEth/Regularized_autoencoders-RAE-) 
+The original author's repo (written by Tensorflow 2.0) is [Regularized_autoencoders(RAE)](https://github.com/ParthaEth/Regularized_autoencoders-RAE-) 
 
 ```
 @inproceedings{
